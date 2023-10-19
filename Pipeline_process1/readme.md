@@ -1,11 +1,17 @@
 Upon code execution, the resulting output is presented below. It is evident that the data yields fundamental yet substantial insights:
 
 Sum: The total time expended by each stage on processing request files.
+
 Min: The minimum time taken to process a request.
+
 Mean: The average time allocated to processing requests within each stage.
+
 Max: The maximum time dedicated to a request at each stage.
+
 Iteration_count: The overall count of non-unique requests processed at each stage.
+
 Rejected: The total count of rejected requests at each stage.
+
 Based on our sample data, the following observations can be made from the table below:
 
 1- The highest occurrence of rejected requests is concentrated in stages 2 and 3.
