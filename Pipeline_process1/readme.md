@@ -9,13 +9,17 @@ Rejected: The total count of rejected requests at each stage.
 Based on our sample data, the following observations can be made from the table below:
 
 1- The highest occurrence of rejected requests is concentrated in stages 2 and 3.
+
    :: This might be indicative of unclear rules within these stages.
+   
    :: It is possible that personnel in the initial stage encounter challenges in request setup.
 
 2- Stages 1, 2, and 3 demonstrate extended processing times for requests.
 
    :: Personnel responsible for these stages may benefit from additional training to enhance their efficiency.
+   
    :: Software infrastructure issues could also be contributing to the delays.
+   
 Furthermore, by applying data filtering with the "specific_date" parameter, it becomes feasible to analyze data over continuous time intervals. This allows for more precise assessments of the overall process and aids in evaluating policies implemented during specific time periods.
 
 Result:
