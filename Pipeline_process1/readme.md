@@ -21,9 +21,16 @@ Furthermore, by applying data filtering with the "specific_date" parameter, it b
 Result:
 
   code_of_stage                sum             min                       mean              max  iteration_count  Rejected
+  
 0        stage1 1680 days 23:00:00 0 days 00:00:00 10 days 04:30:10.909090909 81 days 01:48:00              221       0.0
+
 1        stage2 2269 days 08:50:00 0 days 00:00:00 12 days 11:15:26.373626373 96 days 15:04:00              204      81.0
+
 2        stage3 1488 days 08:32:00 0 days 01:00:00           14 days 07:28:00 87 days 20:26:00              111      63.0
+
 3        stage4  451 days 03:42:00 0 days 01:29:00 12 days 04:38:25.945945946 65 days 15:04:00               37      14.0
+
 4        stage5  197 days 06:08:00 2 days 09:31:00 14 days 02:09:08.571428571 29 days 19:30:00               14       0.0
+
 5        stage6  150 days 16:24:00 0 days 02:29:00           12 days 13:22:00 25 days 15:26:00               12       3.0
+
